@@ -6,7 +6,7 @@
 #include <vector>
 
 void playGame(const Settings& settings) {
-    std::cout << "Who will play first?" << std::endl;
+    std::cout << "Who will play second?" << std::endl;
     std::cout << "1. " << settings.player1 << std::endl;
     std::cout << "2. " << settings.player2 << std::endl;
     int firstPlayerChoice;
