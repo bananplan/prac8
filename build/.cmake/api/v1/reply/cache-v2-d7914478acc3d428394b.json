@@ -398,18 +398,6 @@
 			"value" : "/debug /INCREMENTAL"
 		},
 		{
-			"name" : "CMAKE_EXPORT_COMPILE_COMMANDS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "TRUE"
-		},
-		{
 			"name" : "CMAKE_EXTRA_GENERATOR",
 			"properties" : 
 			[
@@ -467,7 +455,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "x64"
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_GENERATOR_TOOLSET",
@@ -479,7 +467,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "host=x64"
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_HOME_DIRECTORY",
@@ -503,7 +491,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files/TicTacToe"
+			"value" : "C:/Program Files (x86)/TicTacToe"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -627,7 +615,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/mt.exe"
+			"value" : "CMAKE_MT-NOTFOUND"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -715,7 +703,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/rc.exe"
+			"value" : "rc"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
